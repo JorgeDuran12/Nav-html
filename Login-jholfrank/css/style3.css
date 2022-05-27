@@ -1,0 +1,64 @@
+#cabecera{
+    background: rgba(24, 41, 51, 0.794);
+}
+
+body{
+    background-color: rgba(80, 121, 157, 0.37);
+}
+h1, p{
+    color: #fff;
+}
+
+#bu1{
+    width: 310px;
+    background-color: #48e;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #fff;
+    padding: 8px;
+    margin: 10px;
+    border: none;
+}
+
+#formulario{
+    display: flex;
+    justify-content: center;
+}
+
+#b1, #b2{
+    display: flex;
+    justify-content: center;
+}
+ #m2{
+color:rgb(32, 55, 67);
+   text-decoration: none;
+}
+#numero1, #numero2, #numero3{
+    display:block;
+    width:90%;
+    margin: 9px;
+    padding: 10px 8px;
+    font-size: 18px;
+    line-height: 1.5;
+    color:#000000;
+    background-color:#fff;
+    border:1px solid #ced4da;
+    border-radius: 8px;
+}
+#l1{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: rgba(162, 162, 162, 0.85);
+    cursor: pointer;
+    position: relative;
+    left: 650px;
+    bottom: 50px;
+}
+#l1:hover{
+        color: rgb(255, 255, 255);
+}
+    
+h1{
+     color: white;   
+}
